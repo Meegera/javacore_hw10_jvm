@@ -1,17 +1,17 @@
 ***Вывод***: 
-14:39:26.307844600: loading io.vertx //1
-14:39:27.204417400: loaded 529 classes //2
-14:39:30.223814900: loading io.netty //3
-14:39:32.113503900: loaded 2117 classes //4
-14:39:35.120290500: loading org.springframework //5
-14:39:35.766222200: loaded 869 classes //6
-14:39:38.779226700: now see heap //7
-14:39:38.779226700: creating 5000000 objects //8
-14:39:39.883724900: created //9
-14:39:42.891579900: creating 5000000 objects //10
-14:39:43.934299800: created //11
-14:39:47.088176: creating 5000000 objects //12
-14:39:47.544525700: created //13
+<br>14:39:26.307844600: loading io.vertx //1
+<br>14:39:27.204417400: loaded 529 classes //2
+<br>14:39:30.223814900: loading io.netty //3
+<br>14:39:32.113503900: loaded 2117 classes //4
+<br>14:39:35.120290500: loading org.springframework //5
+<br>14:39:35.766222200: loaded 869 classes //6
+<br>14:39:38.779226700: now see heap //7
+<br>14:39:38.779226700: creating 5000000 objects //8
+<br>:39:39.883724900: created //9
+<br>14:39:42.891579900: creating 5000000 objects //10
+<br>14:39:43.934299800: created //11
+<br>14:39:47.088176: creating 5000000 objects //12
+<br>14:39:47.544525700: created //13
 
 ![Скриншоты графиков](image.png)
 
